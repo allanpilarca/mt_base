@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE install PUBLIC "-//Joomla! 1.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.5/template-install.dtd">
 <install version="1.5" type="template" method="upgrade">
-	<name>mt_template</name>
-	<creationDate>January 2011</creationDate>
+	<name>MT_TEMPLATE</name>
+	<creationDate>CREATION_DATE</creationDate>
 	<author>MagicThemes</author>
 	<authorEmail>support@magicthemes.com</authorEmail>
 	<authorUrl>http://magicthemes.com</authorUrl>
@@ -14,7 +14,7 @@
 		<div id="magicthemes-installer-welcome" style="text-align:center;">
 			<br><br><br>
 			<h1>This Template Has Been Brought to you by: </h1><br> 
-			<a href="http://magicthemes.com" target="_new"><img src="../templates/mt_alchemy/images/magicthemes.png" alt="MagicThemes"></a>
+			<a href="http://magicthemes.com" target="_new"><img src="../templates/MT_TEMPLATE/images/magicthemes.png" alt="MagicThemes"></a>
 			<br><br>
 			<h3><a href="http://magicthemes.com" target="_new">MagicThemes.com</a> is a new Template Shop for Joomla that provides unique and creative Templates.</h3>
 			<h3> <a href="http://magicthemes.com" target="_new">Visit our website</a> to download more Free or Premium Templates.</h3>
